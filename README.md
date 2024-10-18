@@ -2,6 +2,8 @@
 ===========================
 # I'm a Junior at HUFLIT, I'm studying Software Engineering here
 
+About me
+
 💼 FrontEnd Engineer at TemporaryCompany
 
 ❤️ I love writing C#, and buiding 3D games with Unity
